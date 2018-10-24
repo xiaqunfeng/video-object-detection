@@ -39,9 +39,7 @@
   * Institution: University of Oxford
 ### CVPR2017
 * **Deep Feature Flow for Video Recognition** : Xizhou Zhu, Yuwen Xiong, Jifeng Dai, Lu Yuan, Yichen Wei. CVPR (2017).
-
   * Paper: https://arxiv.org/abs/1611.07715
-
   * Code: https://github.com/msracver/Deep-Feature-Flow
   * Institution: Microsoft Research Asia
 
